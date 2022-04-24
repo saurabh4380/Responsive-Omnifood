@@ -232,7 +232,7 @@ Instead we assume that 1rem = 1em = 16px */
   }
 
   .step-img-box:nth-child(6){
-    grid-row: 1;
+    grid-row: 5;
   }
 
   .testimonials{
